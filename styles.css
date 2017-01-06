@@ -1,0 +1,8 @@
+body {
+    font-size:16px;
+    background: url('http://www.planwallpaper.com/static/images/HD-Wallpapers-89.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

@@ -1,0 +1,13 @@
+
+.search-title{
+    margin-bottom:0;
+    padding:10px;
+    display:inline-block;
+    background: rgba(0,0,0,0.4);
+}
+
+.search-lead{
+    padding:10px;
+    display:table;
+    background: rgba(0,0,0,0.4);
+}
